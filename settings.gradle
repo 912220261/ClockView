@@ -1,1 +1,1 @@
-include ':app', ':clockview'
+include ':app', ':clockviewlib'

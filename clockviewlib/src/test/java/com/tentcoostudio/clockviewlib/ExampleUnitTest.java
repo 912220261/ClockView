@@ -1,4 +1,4 @@
-package com.tentcoostudio.clockview;
+package com.tentcoostudio.clockviewlib;
 
 import org.junit.Test;
 

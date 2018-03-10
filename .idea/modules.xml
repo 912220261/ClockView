@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyViewDemo.iml" filepath="$PROJECT_DIR$/MyViewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClockView.iml" filepath="$PROJECT_DIR$/ClockView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/clockview/clockview.iml" filepath="$PROJECT_DIR$/clockview/clockview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clockviewlib/clockviewlib.iml" filepath="$PROJECT_DIR$/clockviewlib/clockviewlib.iml" />
     </modules>
   </component>
 </project>

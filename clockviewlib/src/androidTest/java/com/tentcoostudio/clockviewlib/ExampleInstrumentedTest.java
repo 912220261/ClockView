@@ -1,4 +1,4 @@
-package com.tentcoostudio.clockview;
+package com.tentcoostudio.clockviewlib;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.tentcoostudio.clockview.test", appContext.getPackageName());
+        assertEquals("com.tentcoostudio.clockviewlib.test", appContext.getPackageName());
     }
 }

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ClockView">
+        <attr name="bigCircleColor" format="color"/>
+        <attr name="smallCircleColor" format="color"/>
+        <attr name="selectTextColor" format="color"/>
+        <attr name="unSelectTextColor" format="color"/>
+        <attr name="lineColor" format="color"/>
+        <attr name="circleTextColor" format="color"/>
+        <attr name="timeFormat" format="integer">
+            <enum name="hour_format" value="24"/>
+            <enum name="minutes_format" value="60"/>
+        </attr>
+    </declare-styleable>
+
+</resources>
