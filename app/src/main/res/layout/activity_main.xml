@@ -9,11 +9,13 @@
     tools:context="com.frank.myviewdemo.MainActivity">
     <TextView
         android:id="@+id/text"
+        android:textSize="30sp"
         android:layout_width="100dp"
         android:layout_height="50dp" />
     <com.frank.myviewdemo.view.ClockView
         android:id="@+id/clock_view"
         app:timeFormat="hour_format"
+
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 </LinearLayout>
