@@ -2,7 +2,6 @@
 一个仿照android原生TimePickerDialog控件的时间选择器，以圆形钟表的形式进行显示，转动选取时间，分为小时与分钟两种形式：<br><br>
 
 ![](https://github.com/WeicongLi124/ClockView/blob/master/raw/hour.png)
-
 ![](https://github.com/WeicongLi124/ClockView/blob/master/raw/minutes.png)<br>
 
 添加依赖：<br>
