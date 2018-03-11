@@ -1,9 +1,9 @@
 # ClockView
 一个仿照android原生TimePickerDialog控件的时间选择器，以圆形钟表的形式进行显示，转动选取时间，分为小时与分钟两种形式：<br><br>
 
-[](https://github.com/WeicongLi124/ClockView/blob/master/app/src/main/res/drawable/hour.png)<br>
+[](https://github.com/WeicongLi124/ClockView/blob/master/app/src/main/res/drawable/hour.png?raw=true)<br>
 
-[](https://github.com/WeicongLi124/ClockView/blob/master/app/src/main/res/drawable/minutes.png)<br>
+[](https://github.com/WeicongLi124/ClockView/blob/master/app/src/main/res/drawable/minutes.png?raw=true)<br>
 
 添加依赖：<br>
 ```Java
